@@ -11,8 +11,8 @@
   - **SCSS**
   - **JavaScript**
   - **Python**
-  - -**Node.js**
-  - -**React**
+  - **Node.js**
+  - **React**
   - **TypeScript**
 
 ## 🛠️ Skills
